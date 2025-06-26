@@ -1,0 +1,10 @@
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  background-color: #f9f9f9;
+}
+input {
+  margin: 0 0.5rem;
+  padding: 0.25rem;
+}
